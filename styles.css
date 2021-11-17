@@ -14,3 +14,7 @@ h3 {
   color: rgb(4, 0, 255);
   font-family: sans-serif;
 }
+h3:hover {
+  /* pseudo-classes allow us to select elements in certain states. So, in this case, when an h3 is hovered, it will be pink! */
+  color: rgb(255, 192, 250);
+}
