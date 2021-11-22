@@ -2,19 +2,29 @@ body {
   background: rgb(129, 187, 221);
 }
 
+.main-heading {
+  color: red;
+}
+
+h1 {
+  color: rgb(38, 0, 255);
+}
+
+/**
 h1 {
   color: rgb(255, 174, 0);
   font-family: sans-serif;
 }
+*/
 h2 {
   color: rgb(255, 136, 0);
   font-family: sans-serif;
 }
 h3 {
-  color: rgb(4, 0, 255);
+  color: rgb(212, 0, 255);
   font-family: sans-serif;
 }
 h3:hover {
   /* pseudo-classes allow us to select elements in certain states. So, in this case, when an h3 is hovered, it will be pink! */
-  color: rgb(255, 192, 250);
+  color: rgb(255, 254, 192);
 }
